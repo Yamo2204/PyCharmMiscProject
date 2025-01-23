@@ -1,6 +1,7 @@
 import random
-kolmenumeroinen_koodi = join(str(random.randint(0, 9))
-nelinumeroinen_koodi = join(str(random.randint(1, 6))
 
-print(f"Kolmenumeroinen koodi: {kolmenumeroinen_koodi}")
-print(f"Nelinumeroinen koodi: {nelinumeroinen_koodi}")
+koodi1 = str(random.randint(0, 9)) + str(random.randint(a: 0, b: 9))
+print(koodi1)
+
+koodi2 = str(random.randint(a: 0, b: 6)) + str(random.randint(a: 0, b: 6)) + str(random.randint(a: 0, b: 6)) + /
+print(koodi2)
