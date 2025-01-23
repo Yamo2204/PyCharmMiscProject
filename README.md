@@ -1,3 +1,1 @@
-Miikan tunnus githubissa: 
 
-mimuuro
