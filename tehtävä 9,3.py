@@ -22,7 +22,7 @@ class Auto:
                 f"Kuljettu matka: {self.kuljettu_matka} km")
 
 if __name__ == "__main__":
-    auto = Auto("ABC-123", 142)  # Poistettu ylimääräiset heittomerkit ja virheelliset sulkeet
+    auto = Auto("ABC-123", 142) 
     auto.kiihdyta(30)
     auto.kiihdyta(70)
     auto.kiihdyta(50)
