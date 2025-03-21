@@ -32,7 +32,4 @@ if __name__ == "__main__":
                 kilpailu_kaynnissa = False
                 break
 
-    print(f"{'Rekisteri':10} | {'Huippu':5} | {'Nopeus':5} | {'Matka':7}")
-    print("-" * 35)
-    for auto in autot:
-        print(auto)
+    
