@@ -31,8 +31,8 @@ if __name__ == "__main__":
             if auto.kuljettu_matka >= 10000:
                 kilpailu_kaynnissa = False
                 break
-
-    print(f"{'Rekisteri':10} | {'Huippu':5} | {'Nopeus':5} | {'Matka':7}")
+print(f"{'Rekisteri':10} | {'Huippu':5} | {'Nopeus':5} | {'Matka':7}")
     print("-" * 35)
     for auto in autot:
         print(auto)
+    
