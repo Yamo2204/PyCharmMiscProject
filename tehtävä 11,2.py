@@ -27,5 +27,3 @@ class Polttomoottoriauto(Auto):
 sahkoauto = Sahkoauto("ABC-15", 180, 52.5)
 polttomoottoriauto = Polttomoottoriauto("ACD-123", 165, 32.3)
 
-print(f"Sähköauton matkamittarilukema: {sahkoauto.matkamittari} km")
-print(f"Polttomoottoriauton matkamittarilukema: {polttomoottoriauto.matkamittari} km")
